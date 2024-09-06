@@ -1,0 +1,11 @@
+.resumeEmbed {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.resumeEmbed object {
+    height: 100%;
+    width: 80%;
+}
